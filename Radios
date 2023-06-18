@@ -1,20 +1,547 @@
-EXTM3U
+
  
-*Iptv Edias*
+ #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bAdiZd.png" group-title="01.LANÇAMENTOS 2023", John Wick 4 - Baba Yaga 2023
+https://bit.ly/3NxIwtY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJLGDOE.jpg" group-title="01.LANÇAMENTOS 2023", Sem Rastro 2023
+https://bit.ly/3qQdZyJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDIrBwF.jpg" group-title="01.LANÇAMENTOS 2023", A Extorsao 2023
+https://bit.ly/3NAFhly
+#EXTINF:-1 tvg-logo="https://i.imgur.com/me5M5yX.jpg" group-title="01.LANÇAMENTOS 2023", Perfect Addiction 2023
+https://bit.ly/3Nzlse5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rTV2tJ.jpg" group-title="01.LANÇAMENTOS 2023", Royalteen - Princesa Margrethe 2023
+https://bit.ly/3N5oPbe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKOFMc7.jpg" group-title="01.LANÇAMENTOS 2023", O Som do Caos 2023
+https://bit.ly/3CAvkOM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRrAJ3U.jpg" group-title="01.LANÇAMENTOS 2023", Resgate em Medelín 2023
+https://bit.ly/3paaSB2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7XQf19.jpg" group-title="01.LANÇAMENTOS 2023", Um Ano Inesquecível - Verão 2023
+https://bit.ly/3Xcftza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZlH226.jpg" group-title="01.LANÇAMENTOS 2023", Homens Brancos Não Sabem Enterrar 2023
+https://bit.ly/43INXvv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IR2Ydl0.jpg" group-title="01.LANÇAMENTOS 2023", Homem-Formiga e a Vespa: Quantumania
+https://bit.ly/3o9G4zQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGTwDhh.jpg" group-title="01.LANÇAMENTOS 2023", Super Mario Bros - O Filme 
+https://bit.ly/3pS3utT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SDoNDc.png" group-title="01.LANÇAMENTOS 2023", Transfusão 2023 
+https://bit.ly/3Wk1Cq7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7FegHx.jpg" group-title="01.LANÇAMENTOS 2023", Procura-se Gonker 2023 
+https://bit.ly/3Mz1i3r
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5tnSiO.jpg" group-title="01.LANÇAMENTOS 2023", Ruído 2023 
+https://bit.ly/459QyQn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0m0zm9v.jpg" group-title="01.LANÇAMENTOS 2023", Sadako - Ressurreição 2023 
+https://bit.ly/3pOBuYk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yWdPz7.jpg" group-title="01.LANÇAMENTOS 2023", Teen Wolf - O Filme 2023 
+https://bit.ly/456xL8D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3aXtlXA.jpg" group-title="01.LANÇAMENTOS 2023", A Morte do Demônio - A Ascensão 2023
+https://bit.ly/41EDY8O
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oX5NANt.jpg" group-title="01.LANÇAMENTOS 2023", O Ataque ao Capitólio 2023
+https://bit.ly/3I7xfxj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUsEqtF.jpg" group-title="01.LANÇAMENTOS 2023", Detetive Knight - Independência 2023
+https://bit.ly/3MoOixd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAfCEw5.jpg" group-title="01.LANÇAMENTOS 2023", Amor Entre Amigos - O Casamento 2023
+https://bit.ly/41AC5Kp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyA00dT.png" group-title="01.LANÇAMENTOS 2023", Air - A Historia Por Tras do Logo 2023
+https://bit.ly/42wBcUk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fw4jaAE.jpg" group-title="01.LANÇAMENTOS 2023", A Mãe 2023
+https://bit.ly/3pBPViq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8UizX4.jpg" group-title="01.LANÇAMENTOS 2023", A Cratera 2023
+https://bit.ly/3O6CyAK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aAEkA5V.jpg" group-title="01.LANÇAMENTOS 2023", O Exorcista do Papa 2023
+https://bit.ly/3LXOweC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91VXsPs.jpg" group-title="01.LANÇAMENTOS 2023", Agente Infiltrado
+https://bit.ly/3Hn8bBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0JVzxq.jpg" group-title="01.LANÇAMENTOS 2023", Tudo pela Noiva
+https://bit.ly/40Qda4Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axTARic.jpg" group-title="01.LANÇAMENTOS 2023", 65 - Ameaça Pré-Historica
+https://bit.ly/3LH5zAv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzBsNyY.jpg" group-title="01.LANÇAMENTOS 2023", Esquema de Risco - Operação Fortune 
+https://bit.ly/3NmT5QS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqpWOKE.jpg" group-title="01.LANÇAMENTOS 2023", Shazam! Fúria dos Deuses
+https://bit.ly/3LJkKu5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMtLk8D.jpg" group-title="01.LANÇAMENTOS 2023", Peter Pan e Wendy
+https://bit.ly/3LodYs5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrAaxBg.jpg" group-title="01.LANÇAMENTOS 2023", Avatar - O Caminho da Água
+https://bit.ly/3No9B2Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcd9aPk.jpg" group-title="01.LANÇAMENTOS 2023", Assassin Club
+https://bit.ly/42sOVuO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icVQa00.jpg" group-title="01.LANÇAMENTOS 2023", Encurralados
+https://bit.ly/3LyseyE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOijA5k.jpg" group-title="01.LANÇAMENTOS 2023", Dungeons e Dragons - Honra Entre Rebeldes
+https://bit.ly/3NIZbuX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Sgy7Ov.jpg" group-title="01.LANÇAMENTOS 2023", Ghosted - Sem Resposta
+https://bit.ly/3nwZhet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7qwxOb.jpg" group-title="01.LANÇAMENTOS 2023", Gigi e Nate 2023
+https://bit.ly/3pdJSjA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wk1ah31.jpg" group-title="01.LANÇAMENTOS 2023", Guia de Viagem para o Amor
+https://bit.ly/3HFY3Et
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiOb01m.jpg" group-title="01.LANÇAMENTOS 2023", O Grande Mauricinho
+https://bit.ly/42739C6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eOfJ9v.jpg" group-title="01.LANÇAMENTOS 2023", Oferenda ao Demônio
+https://bit.ly/3VyLEYK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6prraq4.jpg" group-title="01.LANÇAMENTOS 2023", Power Rangers -  Agora e Sempre
+https://bit.ly/3NXVTEv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaQvvU1.jpg" group-title="01.LANÇAMENTOS 2023", Quasimodo
+https://bit.ly/3LxdOPn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nllEaeX.jpg" group-title="01.LANÇAMENTOS 2023", Sem Rastro
+https://bit.ly/3HIzCGK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMx8Qcl.jpg" group-title="01.LANÇAMENTOS 2023", The Last Kingdom - Seven Kings Must Die
+https://bit.ly/3LWxOwh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jcx9Whw.jpg" group-title="01.LANÇAMENTOS 2023", Tic-Tac - A Maternidade do Mal
+https://bit.ly/3p9wOMf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xv6CCFZ.jpg" group-title="01.LANÇAMENTOS 2023", Tudo de Novo Mais Uma Vez
+https://bit.ly/3LAnFUv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88kWMcX.jpg" group-title="01.LANÇAMENTOS 2023", Um Pacto de Amizade 2023
+https://bit.ly/42sepbK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HYcu2y.jpg" group-title="01.LANÇAMENTOS 2023", Tetris 2023
+https://bit.ly/42ebBzl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xigwaQ.jpg" group-title="01.LANÇAMENTOS 2023", Os Reis da Rua Mulberry - Que Reine o Amor 2023
+https://bit.ly/3NN1fC3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fgqvs4.jpg" group-title="01.LANÇAMENTOS 2023", Mistério em Paris 2023
+https://bit.ly/3pglm1B
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqVMYln.jpg" group-title="01.LANÇAMENTOS 2023", Meu Amigo Lutcha 2023
+https://bit.ly/3VNMjpp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wb0QgTl.jpg" group-title="01.LANÇAMENTOS 2023", Kill Boksoon 2023
+https://bit.ly/3HNymlC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIwkSM4.jpg" group-title="01.LANÇAMENTOS 2023", Fome de Sucesso 2023
+https://bit.ly/3M4ENmY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlWYMNx.jpg" group-title="01.LANÇAMENTOS 2023", Ah, Belinda 2023
+https://bit.ly/44FeB9y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v2c7LPq.jpg" group-title="01.LANÇAMENTOS 2023", A Baleia 2023
+https://bit.ly/3nDZixf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0CjOPba.jpg" group-title="01.LANÇAMENTOS 2023", Creed III 2023
+https://bit.ly/3LOK4hc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwdiMgj.jpg" group-title="01.LANÇAMENTOS 2023", Desapega 2023
+https://bit.ly/3NN265J
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5p5YDbX.jpg" group-title="01.LANÇAMENTOS 2023", Batman - A Perdição Chegou a Gotham 2023
+https://bit.ly/3HLLeZv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2GyhJu.jpg" group-title="02.NOVIDADES", Dias de Desejo 2022
+https://bit.ly/446XlJw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5KQ3Kz.jpg" group-title="02.NOVIDADES", Collide 2022
+https://bit.ly/3qIVPi1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sawG3TK.jpg" group-title="02.NOVIDADES", Corra que a Polícia Vem Aí 3 - 1994
+https://bit.ly/447kFqb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BM5XdsT.jpg" group-title="02.NOVIDADES", Entrevista com Deus - 2019
+https://bit.ly/443ehQN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfiBnJB.jpg" group-title="02.NOVIDADES", Forrest Gump O Contador de Histórias - 1994
+https://bit.ly/3NzUgfi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrAq7QY.jpg" group-title="02.NOVIDADES", O Jardineiro 2021
+https://bit.ly/3p9m3tO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YA55cIK.jpg" group-title="02.NOVIDADES", Tempestade 2022
+https://bit.ly/43LYLJr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKP8ioo.jpg" group-title="02.NOVIDADES", Terrifier 2 2022 
+https://bit.ly/3PgPpB2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL1T4WV.jpg" group-title="02.NOVIDADES", A Fúria do Justiceiro 1991
+https://bit.ly/3WFYt4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHe1tIY.jpg" group-title="02.NOVIDADES", Armadura de Deus 2 - Operação Condor  1991
+https://bit.ly/3MIDER4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVPvMnR.jpg" group-title="02.NOVIDADES", As Tartarugas Ninja 2 - O Segredo do Ooze  1991
+https://bit.ly/43zzamv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAlHvg0.jpg" group-title="02.NOVIDADES", Bill & Ted – Dois Loucos no Tempo 1991 
+https://bit.ly/3C78pKG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XpBaJty.jpg" group-title="02.NOVIDADES", Brinquedo Assassino 3  1991
+https://bit.ly/3N6CK26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imCdWn5.jpg" group-title="02.NOVIDADES", Caçadores de Emoção 1991
+https://bit.ly/3C5J43v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8ep4D2.jpg" group-title="02.NOVIDADES", Caravana da Coragem 1984
+https://bit.ly/43vvu5T
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W79sgCe.jpg" group-title="02.NOVIDADES", Corra que a Polícia Vem Aí 2  1991
+https://bit.ly/3N5YScT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXRz6fo.jpg" group-title="02.NOVIDADES", Debi e Loide 2 2015
+https://bit.ly/43T36KL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DweSbNL.jpg" group-title="02.NOVIDADES", Debi e Lóide - Dois Idiotas em Apuros 1994
+https://bit.ly/3IOhlIq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzTjHVO.jpg" group-title="02.NOVIDADES", Tudo por Amor 1991
+https://bit.ly/3ITGIZp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pV6ooiY.jpg" group-title="02.NOVIDADES", Top Gang - Ases Muito Loucos  1991
+https://bit.ly/45Hh7gc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FyXkAgh.jpg" group-title="02.NOVIDADES", Robin Hood - O Príncipe dos Ladrões 1991
+https://bit.ly/3qlj95t
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVX0a2m.jpg" group-title="02.NOVIDADES", Riquinho 1994
+https://bit.ly/3OOuPYH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGEzQ7.jpg" group-title="02.NOVIDADES", Priscilla A Rainha Do Deserto 1994
+https://bit.ly/3IPwGJ0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gynKToB.jpg" group-title="02.NOVIDADES", Os Donos da Rua 1991
+https://bit.ly/43gBBe6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfUsE3c.jpg" group-title="02.NOVIDADES", Operação Condor - Um Kickboxer Muito Louco 1991
+https://bit.ly/43sFTyQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pN6YYyS.jpg" group-title="02.NOVIDADES", O Último Boy Scout 1991
+https://bit.ly/3qh8fO2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fbEUV0.jpg" group-title="02.NOVIDADES", O Sombra  The Shadow 1994
+https://bit.ly/3oEXJQi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IeFFURB.jpg" group-title="02.NOVIDADES", Massacre no Bairro Japonês 1981
+https://bit.ly/42gyi5h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCBhYwl.jpg" group-title="02.NOVIDADES", Highlander 3 1994
+https://bit.ly/3MMgxVO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A81fnao.jpg" group-title="02.NOVIDADES", Highlander 2 1991
+https://bit.ly/42lqGhQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hs8w55U.jpg" group-title="02.NOVIDADES", Fúria Mortal  1991
+https://bit.ly/45FZ5e7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbGd8Qh.jpg" group-title="02.NOVIDADES", Edward Mãos de Tesoura
+https://bit.ly/42wspkJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buLlVpX.jpg" group-title="02.NOVIDADES", A Familia Addams 1991
+https://bit.ly/42jQ5bL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7vCbqN.jpg" group-title="02.NOVIDADES", A Bela e a Fera 1991
+https://bit.ly/45HhHKU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bor59xQ.jpg" group-title="02.NOVIDADES", O Rei Leão 3 2004
+https://bit.ly/3WFYPI4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXsP9oM.jpg" group-title="02.NOVIDADES", O Rei Leão 2 O Reino de Simba 1998
+https://bit.ly/3oDFpa3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7vCbqN.jpg" group-title="02.NOVIDADES", O Rei Leão 1994
+https://bit.ly/45HhHKU
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKP6z87.png" group-title="03.Filmes", 007 Contra Spectre 2016
+https://bit.ly/437uXGK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixNqlpf.jpg" group-title="03.Filmes", A 5ª Onda  2016
+https://bit.ly/3qak74j
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex5HgxW.jpg" group-title="03.Filmes", Deadpool 2016
+https://bit.ly/3qdJW3x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hORRjB8.jpg" group-title="03.Filmes", Creed Nascido Para Lutar 2016
+https://bit.ly/45vsFmq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D706oIB.jpg" group-title="03.Filmes", Contrato Perigoso 2022
+https://bit.ly/429LUPR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OoQE8Ov.jpg" group-title="03.Filmes", Contra o Tempo 2003
+https://bit.ly/3oBWIIv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCx4EVQ.png" group-title="03.Filmes", Até o Fim 2021
+https://bit.ly/45zvqn1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kU7Ze3O.png" group-title="03.Filmes", Aileen Wuornos - Mente Assassina 2021 
+https://bit.ly/3MzwrCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ir19VrD.jpg" group-title="03.Filmes", Agente das Sombras 2022
+https://bit.ly/3MDwyNK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpDwiBp.jpg" group-title="03.Filmes", A Guerra do Amanha 2021
+https://bit.ly/3oAJoEn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sBBRgcA.jpg" group-title="03.Filmes", Impacto Mortal 2016
+https://bit.ly/3oxJgWc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVY6WMs.jpg" group-title="03.Filmes", Judas e o Messias Negro 2021
+https://bit.ly/43anE1a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PB9HTIY.jpg" group-title="03.Filmes", Liga da Justiça vs Jovens Titãs 2016
+https://bit.ly/3OG7Sa0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SENTbA.jpg" group-title="03.Filmes", Na Linha de Fogo 1993
+https://bit.ly/438HtG0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0NGfC6.jpg" group-title="03.Filmes", Na Mira do Perigo 2021
+https://bit.ly/43w5S8x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN7P10a.jpg" group-title="03.Filmes", Nem um Passo em Falso 2021
+https://bit.ly/3q6YiCF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ASCQqdf.jpg" group-title="03.Filmes", O Comando 2022
+https://bit.ly/43md1YE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dn2GdCW.jpg" group-title="03.Filmes", O Golpe 2019
+https://bit.ly/438Hxpe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSKxOxq.jpg" group-title="03.Filmes", O Grande Mestre 3 2016
+https://bit.ly/3WCHJuM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBVLcNr.jpg" group-title="03.Filmes", O Radicão 2018
+https://bit.ly/3qaJPpk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8CptPI.jpg" group-title="03.Filmes", O Regresso 2016
+https://bit.ly/43sbG2M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUhc5vo.jpg" group-title="03.Filmes", O Sentido da Vida 2022
+https://bit.ly/3WzB4RM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGFCz6h.jpg" group-title="03.Filmes", O Sobrevivente 2021
+https://bit.ly/3BXIULE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1F7Xu4e.jpg" group-title="03.Filmes", Os 8 Odiados 2016
+https://bit.ly/45zvPpx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3OzkkT.jpg" group-title="03.Filmes", Ponte dos Espiões  2016
+https://bit.ly/3BWl6aV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVgMvK7.jpg" group-title="03.Filmes", Skylines 2021
+https://bit.ly/3MB3m9Z
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzU9eXe.jpg" group-title="03.Filmes", Street Fighter Punho Assassino 2015
+https://bit.ly/42ansxs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7pFc6z.jpg" group-title="03.Filmes", The Ridiculous 6 2015
+https://bit.ly/3MuXlvw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjoMphj.jpg" group-title="03.Filmes", Eduardo e Mônica 2021
+https://bit.ly/43srBhr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XP723fP.jpg" group-title="03.Filmes", Nas Garras do Terror 2021
+https://bit.ly/3MUXn1g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LyMITAJ.jpg" group-title="03.Filmes", O Rei das Fugas 2022
+https://bit.ly/3ooZiln
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjDrmT5.jpg" group-title="03.Filmes", O Segredo de Jekyll & Hyde 2022
+https://bit.ly/3OIVFkK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eggF6So.png" group-title="03.Filmes", O Soldado que Não Existiu 2022
+https://bit.ly/434xyRS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTzsszj.jpg" group-title="03.Filmes", Os Caras Malvados 2022
+https://bit.ly/3OFYFP1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0WFXXbh.jpg" group-title="03.Filmes", Os Opostos Sempre Se Atraem 2022
+https://bit.ly/439ej9M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B3M7XIG.jpg" group-title="03.Filmes", Tô Ryca 2 2022
+https://bit.ly/43cFikT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yjv9UdH.jpg" group-title="03.Filmes", Vozes na Escuridão 2021
+https://bit.ly/3IGF3GE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KINUAPm.jpg" group-title="03.Filmes", Deserto do Ouro 2022
+https://bit.ly/3IClNKn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSslGN3.jpg" group-title="03.Filmes", Delivery Macabro 2021
+https://bit.ly/3IGqO4H
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZmDTCc.jpg" group-title="03.Filmes", Mortal Kombat 1995
+https://bit.ly/3pUpgxt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GC2cY5U.jpg" group-title="03.Filmes", Mortal Kombat - A Aniquilação 1997
+https://bit.ly/3Wk3krr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gK6SWO.jpg" group-title="03.Filmes", Mortal Kombat 2021
+https://bit.ly/3MDKfwd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3AJJfM.jpg" group-title="03.Filmes", Thor - Amor e Trovão 2022
+https://bit.ly/3IqDlce
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJ24haQ.jpg" group-title="03.Filmes", Os Reis do Mundo
+https://bit.ly/433l7W3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ae2gRv9.jpg" group-title="03.Filmes", O Exterminador do Futuro - 1984
+https://bit.ly/3MqiLdk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVv1cDE.jpg" group-title="03.Filmes", O Exterminador do Futuro 2 - 1991
+https://bit.ly/3Wcg2Zg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5UV1Nc.jpg" group-title="03.Filmes", O Exterminador do Futuro - Destino Sombrio 2020
+https://bit.ly/3BxONPh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SSGPHt.jpg" group-title="03.Filmes", O Exterminador do Futuro - Gênesis 2015
+https://bit.ly/3pQrIoz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/194fIYj.jpg" group-title="03.Filmes", Justiça em Família 2021
+https://bit.ly/41y9PIo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgoGnai.jpg" group-title="03.Filmes", Jung_E 2020
+https://bit.ly/3nZlceB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hk8sorc.jpg" group-title="03.Filmes", Narvik 2022
+https://bit.ly/3pIEmFV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPyolmf.png" group-title="03.Filmes", O Pálido Olho Azul 2022
+https://bit.ly/41v9WEl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyvPM5s.jpg" group-title="03.Filmes", Aniquiladores - 1985
+https://bit.ly/3M2iwF8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2sQcWec.jpg" group-title="03.Filmes", E o Vento Levou -1939
+https://bit.ly/3W3VPVA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQTcFD8.jpg" group-title="03.Filmes", Braddock 2 - O Início da Missão -1985
+https://bit.ly/42zsFA6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlBCPhq.jpg" group-title="03.Filmes", Comando Para Matar - 1985
+https://bit.ly/41ArdvV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l78Fw81.jpg" group-title="03.Filmes", Gotcha! Uma Arma Do Barulho -1985
+https://bit.ly/3nRMrI9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10fHeTb.jpg" group-title="03.Filmes", Mad Max 3 - 1985
+https://bit.ly/41zr8IU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gbDw4y.jpg" group-title="03.Filmes", O Último Dragão - 1985
+https://bit.ly/3BtOK72
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hMgufv.jpg" group-title="03.Filmes", Os Goonies - 1985
+https://bit.ly/3pxZ4Z3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEg4aj2.jpg" group-title="03.Filmes", Amor Além do Tempo 2022
+https://bit.ly/42XZhn3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lWyI8zM.jpg" group-title="03.Filmes", As Almas que Dançam no Escuro 2021
+https://bit.ly/3BmI9vp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJCRXnX.jpg" group-title="03.Filmes", Godzilla II - Rei dos Monstros 2019
+https://bit.ly/44WSJXu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b741Q4k.jpg" group-title="03.Filmes", Inspetor Aranha 2022
+https://bit.ly/41wFCcx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fs2aEdf.jpg" group-title="03.Filmes", Irmãos de Honra 2022
+https://bit.ly/44W79qO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfGj1hp.jpg" group-title="03.Filmes", Kompromat - O Dossiê Russo - 2022
+https://bit.ly/41uOK1v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fILJqE7.jpg" group-title="03.Filmes", Lições para Canalhas 2022
+https://bit.ly/3W1zKqA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YO6Rfr.jpg" group-title="03.Filmes", Gemini - O Planeta Sombrio 2022
+https://bit.ly/41tvrpn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7MqOrNH.jpg" group-title="03.Filmes", Fogareu 2022
+https://bit.ly/3NMXIUD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHpJ1GS.jpg" group-title="03.Filmes", Mentiras Secretas 2022
+https://bit.ly/3VHVCqW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQ531Hm.jpg" group-title="03.Filmes", Na Rédea Curta 2022
+https://bit.ly/3peUQWe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0IUS8i6.jpg" group-title="03.Filmes", O Visitante 2022
+https://bit.ly/3VHYpQX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVJD7ue.jpg" group-title="03.Filmes", Olhos Famintos - Renascimento 2022
+https://bit.ly/3B9yKa9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9s53cD.jpg" group-title="03.Filmes", Raquel 1-1
+https://bit.ly/3nGBysr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DP9ye5f.jpg" group-title="03.Filmes", Serial Kelly 2022
+https://bit.ly/41gV38F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jYYsEjA.jpg" group-title="03.Filmes", Till - A Busca por Justiça 2022
+https://bit.ly/3nAxiL5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxOlPRh.jpg" group-title="03.Filmes", Tinnitus 2022
+https://bit.ly/3VJZibQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZkpaKi.jpg" group-title="03.Filmes", Verão Fantasma 2022
+https://bit.ly/3HNxhKE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ANoTFth.jpg" group-title="03.Filmes", A Culpa Foi do Macaco
+https://bit.ly/3VEBmq0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEjSPfQ.jpg" group-title="03.Filmes", Breaking 2022
+https://bit.ly/44ECgao
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QufQPIR.jpg" group-title="03.Filmes", Code Name Banshee 2022
+https://bit.ly/3NMqSD2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQfTuEQ.jpg" group-title="03.Filmes", Drácula – Ele Ainda Está Vivo 2022
+https://bit.ly/3nECnlk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cAUO7Q.jpg" group-title="03.Filmes", Escola Base - Um Repórter Enfrenta o Passado 2022
+https://bit.ly/3Lw7tDT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NpErCoE.jpg" group-title="03.Filmes", Jogo Perigoso - Vítimas do Legado 2022
+https://bit.ly/3HIneXc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsLGdfw.jpg" group-title="03.Filmes", Missão Babilônia 2008
+https://bit.ly/3HCYG1G
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ip9sffQ.jpg" group-title="03.Filmes", Sick 2022
+https://bit.ly/42nMLwE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2P1AKYa.jpg" group-title="03.Filmes", Alita - Anjo de Combate
+https://bit.ly/3LKyfK3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88Jtxul.jpg" group-title="03.Filmes", Aves de Rapina - Arlequina e sua Emancipacao Fantabulosa
+https://bit.ly/3ANRQT2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqTd4lQ.jpg" group-title="03.Filmes", Jogo Perfeito
+https://bit.ly/3AHWkuF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH8a52W.jpg" group-title="03.Filmes", Duas Bruxas - A herença diabolica
+https://bit.ly/3AJYXfe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGJEtG2.jpg" group-title="03.Filmes", Sonic o Filme
+https://bit.ly/41SeZ2M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5fRZu6.jpg" group-title="03.Filmes", Animais Fantasticos Os Segredos de Dumbledore
+https://bit.ly/3Lm9P7Z
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScTrog2.jpg" group-title="03.Filmes", Cidade Perdida
+https://bit.ly/3oRRUP8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Xrer8S.jpg" group-title="03.Filmes", Adão Negro
+https://bit.ly/3Vg2R9n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7IMCS3.jpg" group-title="03.Filmes", Pantera Negra - Wakanda para Sempre
+https://bit.ly/3oXKSZ0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQo958E.jpg" group-title="03.Filmes", Top Gun - Maverick
+https://bit.ly/3HmcJZt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqnjYWC.jpg" group-title="03.Filmes", Rota de Fuga 3
+https://bit.ly/3oY5nos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KjShZG.jpg" group-title="03.Filmes", Troco em Dobro
+https://bit.ly/3oX6Rzy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGDyauD.jpg" group-title="03.Filmes", Capita Marvel
+https://bit.ly/3nlOALB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TdCi7av.jpg" group-title="03.Filmes", Toy Story 4
+https://bit.ly/3n9wgFL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AxGlVVZ.jpg" group-title="03.Filmes", Annabelle 3 - De Volta para Casa
+https://bit.ly/426VaVa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nU3HmeP.jpg" group-title="03.Filmes", Coringa
+https://bit.ly/42bv0Aw
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrAaxBg.jpg" group-title="04.FILMES 4K", Avatar - O Caminho da Água
+https://bit.ly/3Hpeyow
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sq4zBtW.jpg" group-title="04.FILMES 4K", Sonic o Filme
+https://bit.ly/3NkeLwY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/by0ESPm.jpg" group-title="04.FILMES 4K", Transformers - O Ultimo cavaleiro
+https://bit.ly/3ACFwoS
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7whMb5i.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Resgate de Gohan (1989)
+https://bit.ly/3VkMJ6h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzTzeMI.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
+https://bit.ly/3OOJItT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1eHGi5.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: A Árvore do Poder (1990)
+https://bit.ly/42mAiZz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFJJPsC.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: Goku, o Super Saiyajin (1991)
+https://bit.ly/3IR4F3s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUMfMBg.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: A Vingança de Freeza (1991)
+https://bit.ly/3C6ffQw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQEZAnS.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Retorno de Freeza (1992)
+https://bit.ly/3WJZfNB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lu1N8p.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Retorno dos Andróides (1992)
+https://bit.ly/43bkSbY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpgXZeY.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Poder Invencível (1993)
+https://bit.ly/3C6foDy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMieF0o.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: Batalha Nos Dois Mundos (1993)
+https://bit.ly/43jhwUy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHzFEZD.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: A Volta do Guerreiro (1994)
+https://bit.ly/3ONRP9W
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KEhjE35.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Combate Final Bio-Broly (1994)
+https://bit.ly/42eORyA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ipILFEU.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Renascimento da Fusão (1995)
+https://bit.ly/43Csq7E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdAxJ4B.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Golpe do Dragão (1996)
+https://bit.ly/45FZqgT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GqYYGA.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: A Batalha dos Deuses (2013)
+https://bit.ly/43expvq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttqCFTn.jpg" group-title="09.Filme Dragon Ball Z", Dragon Ball Z: O Renascimento de Freeza (2015)
+https://bit.ly/45CEmIb
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDceatw.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 1 2001
+https://bit.ly/3VkMJ6h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qUdECK.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 2 2003
+https://bit.ly/40Rwy1q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KR4LK9I.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 3 2006
+https://bit.ly/3LHeqDh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZVgAnq.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 4 2009
+https://bit.ly/3VlzWk0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnHxkZ6.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 5 2011
+https://bit.ly/3ALecEI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yk0jgtF.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 6 2013
+https://bit.ly/3Npr5vK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rg7ddBK.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 7 2015
+https://bit.ly/3AEG65h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJEcllz.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 8 2017
+https://bit.ly/3AJjqAV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlJE2TJ.jpg" group-title="10.Coletanea Velozes e Furiosos", Velozes & Furiosos 9 2021	
+https://bit.ly/3NwdcvU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YYagRS.jpg" group-title="11.Coletanea Resident Evil", Resident Evil -  O Hóspede Maldito
+https://bit.ly/3p1pXV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMBXRmI.jpg" group-title="11.Coletanea Resident Evil", Resident Evil 2 - Apocalipse
+https://bit.ly/3ASgIJH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LA6VAyu.jpg" group-title="11.Coletanea Resident Evil", Resident Evil 3 - A Extinção
+https://bit.ly/42oPVA9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ok4lGTr.jpg" group-title="11.Coletanea Resident Evil", Resident Evil 4 - Recomeço
+https://bit.ly/42lgGFI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtPsBes.jpg" group-title="11.Coletanea Resident Evil", Resident Evil 5 - Retribuição
+https://bit.ly/3Lys5Lx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5wuQ3P.jpg" group-title="11.Coletanea Resident Evil", Resident Evil 6 - O Capítulo Final
+https://bit.ly/3LYuOPK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOsGEim.jpg" group-title="11.Coletanea Resident Evil", Resident Evil 7 - A Vingança
+https://bit.ly/3LWSlRh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/73lFuk1.jpg" group-title="11.Coletanea Resident Evil", Resident Evil - Bem-Vindo a Raccoon City
+https://bit.ly/428b1TI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 01
+https://bit.ly/3M15Cae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 02
+https://bit.ly/3LVJs9m
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 03
+https://bit.ly/42Gl6aE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 04
+https://bit.ly/3OkXeW7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 05
+https://bit.ly/3MjdAgb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 06
+https://bit.ly/44U5NN7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 07
+https://bit.ly/44RfY5f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 08
+https://bit.ly/3VUU4K8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFmSYlp.jpg" group-title="12.Série The Las Of Us ", Temporada 01 Episódio 09
+https://bit.ly/3VUU4K8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 01
+https://bit.ly/3OLNvbp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 02
+https://bit.ly/3MFPsDJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 03
+https://bit.ly/3MEYhh4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 04
+https://bit.ly/42fBcae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 05
+https://bit.ly/3WGoHDt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 06
+https://bit.ly/3MJnwP8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 07
+https://bit.ly/3WCl4yA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 08
+https://bit.ly/3INWqoV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6j6Juh.jpg" group-title="13.Halo ", Temporada 01 Episódio 09
+https://bit.ly/3C4EuTj
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 01
+https://bit.ly/3N4VTle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 02
+https://bit.ly/3INZ3Hf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 03
+https://bit.ly/3IJjO6Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 04
+https://bit.ly/43A16H5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 05
+https://bit.ly/3OO3NjZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 06
+https://bit.ly/42fBqOC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 07
+https://bit.ly/42bREIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zE0KO1.jpg" group-title="14.Fubar ", Temporada 01 Episódio 08
+https://bit.ly/42hzvsW
  
  
  
  
- 
-####Radios####
-EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 70
-http://192.99.150.31:8241/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 80
-http://192.99.150.31:8697/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 90
-http://192.99.150.31:8056/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 2000
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,AXÉ
-http://192.99.150.31:8305/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BOSSA NOVA
+
